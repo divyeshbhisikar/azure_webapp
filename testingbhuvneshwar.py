@@ -1,6 +1,6 @@
 
 
-pip install snowflake-connector-python[pandas]
+
 import snowflake.connector
 import pandas as pd
 import numpy as np
