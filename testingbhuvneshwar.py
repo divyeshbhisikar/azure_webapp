@@ -1,5 +1,5 @@
 
-sudo apt install python3-pip
+
 pip install snowflake-connector-python[pandas]
 import snowflake.connector
 import pandas as pd
