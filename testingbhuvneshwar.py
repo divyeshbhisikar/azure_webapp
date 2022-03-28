@@ -16,4 +16,4 @@ cur = ctx.cursor()
 query = '''select * from "test"."public"."B"'''
 data = pd.read_sql(query, ctx)
 
-display(data)
+print(data)
